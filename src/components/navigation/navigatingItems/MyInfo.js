@@ -27,7 +27,7 @@ const SocialMediaLink = styled.a`
   }
 `;
 const Header3=styled.h3`
-margin-bottom: 0px;
+margin-bottom:10px;
 margin-top:15px
 `
 
