@@ -1,5 +1,4 @@
 import Header from "./Headers";
-import Accessibility from "./Accessibility";
 import styled from "styled-components";
 
 const NavbarContainer = styled.div`

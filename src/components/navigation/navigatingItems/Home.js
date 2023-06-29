@@ -2,7 +2,6 @@ import ScrollingText from '../../scrollingText/ScrollingText';
 import Footer from '../../Footer';
 import styled from 'styled-components';
 
-import '../../../styles/home/Home.css'
 
 const HomeContainer = styled.div`
   display: flex;

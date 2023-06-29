@@ -1,5 +1,4 @@
-import { Link,NavLink } from "react-router-dom";
-// import '../styles/header/Header.css';
+import { NavLink } from "react-router-dom";
 import styled from "styled-components";
 
 const NavLinksContainer = styled.div`

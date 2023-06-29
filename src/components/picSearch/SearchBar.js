@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import 'semantic-ui-css/semantic.min.css';
 import styled from "styled-components";
-import "../../styles/picSearch/SearchBar.css"
 
 const SearchBarStyle = styled.div`
   display: flex;

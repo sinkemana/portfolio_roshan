@@ -1,5 +1,4 @@
 import ImageCard from "./ImageCard";
-import "../../styles/picSearch/ImageList.css"
 import styled from "styled-components";
 
 const StyleImageList = styled.div`
