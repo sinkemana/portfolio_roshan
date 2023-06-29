@@ -1,4 +1,3 @@
-import SearchBar from "../../picSearch/SearchBar";
 import PicMain from "../../picSearch/PicMain";
 const PicSearch=()=>{
     return(
