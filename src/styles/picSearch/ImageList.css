@@ -1,0 +1,15 @@
+/* 
+.image-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 0 10px;
+    padding: 1rem .5rem 0 .5rem;
+    background-color: black;
+}
+.image-list img {
+    width: 250px;
+    border-radius: 10px;
+
+} */
